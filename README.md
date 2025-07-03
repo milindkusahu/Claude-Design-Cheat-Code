@@ -1,5 +1,10 @@
 # 🎨 Claude Design Cheat Code
 
+## DEMO
+- Premium SaaS Landing Page 1: https://claude.ai/public/artifacts/f891e2f5-57cd-4134-8d52-058ac693218d
+- Premium SaaS Landing Page 2: https://claude.ai/public/artifacts/aa7c80e1-425b-44fa-81b0-9dc03e508e35
+- Premium SaaS Dashboard (Forest Night Theme) - https://claude.ai/public/artifacts/314f32c4-2d93-498c-bebe-0cadbc057024
+
 ## 🔥 The Magic Prompt Formula
 
 ```
